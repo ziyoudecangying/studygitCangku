@@ -1,4 +1,9 @@
 aaaaaaxxxxaaaaaaaa
 bbbbbbbbbbbbbbbbbbb
-xxxxxxxxxxxxxxxx4
+xxxxxxxxxxxxxxxx6
 cccccccccccccccccxx
+
+//复原三个级别
+git reset --hard 12345
+git reset HEAD test.txt
+git checkout -- test.txt
