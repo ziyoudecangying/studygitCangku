@@ -7,3 +7,12 @@ cccccccccccccccccxx
 git reset --hard 12345
 git reset HEAD test.txt
 git checkout -- test.txt
+
+
+ドライブ予定　ok
+mail sirase いらない ok
+popup gamen ok
+選択button->仮画面に ok
+user 利用不可　成長　だけ ok
+driver,trade 最右边 有测试数据
+drive画面 driver名 url迁移 ok
