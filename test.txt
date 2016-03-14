@@ -8,7 +8,7 @@ git reset --hard 12345
 git reset HEAD test.txt
 git checkout -- test.txt
 
-
+master1
 ドライブ予定　ok
 mail sirase いらない ok
 popup gamen ok
